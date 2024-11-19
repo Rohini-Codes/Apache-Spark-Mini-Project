@@ -1,4 +1,5 @@
 # Apache-Spark-Mini-Project
+# e-Commerce Sales Data Processing
 
 This mini project demonstrates batch data processing in the e-commerce domain. Here's a brief explanation of the process:
 
