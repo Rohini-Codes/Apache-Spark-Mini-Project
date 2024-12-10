@@ -1,3 +1,5 @@
+Creating Product, Sales, Customer Tables:
+
 3.a) Creating Product Table 
 
           CREATE TABLE product (
