@@ -1,6 +1,6 @@
 Creating the Keyvalult:
+https://<databricks-instance>#secrets/createScope
+dbutils.secrets.listScopes()
 
-Creating secret_scope: 
 
-Create secrets: 
 
